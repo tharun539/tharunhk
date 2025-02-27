@@ -1,3 +1,3 @@
 # tharunhk
 
-#polytechnic college
+polytechnic college
